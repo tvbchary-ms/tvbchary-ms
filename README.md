@@ -89,12 +89,8 @@ high-availability data center operations.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tvbchary-ms&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-eight-lyart.vercel.app/api?username=tvbchary-ms&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://streak-stats.demolab.com/?user=tvbchary-ms&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=tvbchary-ms&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
@@ -126,10 +122,10 @@ Corporate IT infrastructure for UBS Bank, Nvidia, Nomura, CDS, and City Bank (IB
 
 <div align="center">
 
-<a href="https://github.com/tvbchary-ms/DevOps-Project-1-Two-Tier-Flask-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tvbchary-ms&repo=DevOps-Project-1-Two-Tier-Flask-App&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/tvbchary-ms/terraform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tvbchary-ms&repo=terraform&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/tvbchary-ms/ansible"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tvbchary-ms&repo=ansible&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/tvbchary-ms/FastAPI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tvbchary-ms&repo=FastAPI&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/tvbchary-ms/DevOps-Project-1-Two-Tier-Flask-App"><img src="https://github-readme-stats-eight-lyart.vercel.app/api/pin/?username=tvbchary-ms&repo=DevOps-Project-1-Two-Tier-Flask-App&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/tvbchary-ms/terraform"><img src="https://github-readme-stats-eight-lyart.vercel.app/api/pin/?username=tvbchary-ms&repo=terraform&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/tvbchary-ms/ansible"><img src="https://github-readme-stats-eight-lyart.vercel.app/api/pin/?username=tvbchary-ms&repo=ansible&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/tvbchary-ms/FastAPI"><img src="https://github-readme-stats-eight-lyart.vercel.app/api/pin/?username=tvbchary-ms&repo=FastAPI&theme=tokyonight&hide_border=true" /></a>
 
 </div>
 
