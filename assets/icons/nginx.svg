@@ -1,10 +1,30 @@
 <svg width="72" height="72" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Nginx">
   <title>Nginx</title>
+  <defs>
+    <style>
+      .ring-nginx {
+        transform-origin: 50px 50px;
+        animation: spin-nginx 4s linear infinite;
+      }
+      @keyframes spin-nginx {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      .icon-nginx {
+        transform-origin: 12px 12px;
+        animation: pulse-nginx 2.4s ease-in-out infinite;
+      }
+      @keyframes pulse-nginx {
+        0%, 100% { transform: scale(1); }
+        50% { transform: scale(1.12); }
+      }
+    </style>
+  </defs>
   <circle cx="50" cy="50" r="46" fill="#1A1B26"/>
-  <circle cx="50" cy="50" r="46" fill="none" stroke="#009639" stroke-width="3" stroke-dasharray="30 250" stroke-linecap="round" opacity="0.9">
-    <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <g transform="translate(25,25) scale(2.0833333)" fill="#009639">
-    <path d="M12 0L1.605 6v12L12 24l10.395-6V6L12 0zm6 16.59c0 .705-.646 1.29-1.529 1.29-.631 0-1.351-.255-1.801-.81l-6-7.141v6.66c0 .721-.57 1.29-1.274 1.29H7.32c-.721 0-1.29-.6-1.29-1.29V7.41c0-.705.63-1.29 1.5-1.29.646 0 1.38.255 1.83.81l5.97 7.141V7.41c0-.721.6-1.29 1.29-1.29h.075c.72 0 1.29.6 1.29 1.29v9.18H18z"/>
+  <circle class="ring-nginx" cx="50" cy="50" r="46" fill="none" stroke="#009639" stroke-width="3" stroke-dasharray="30 250" stroke-linecap="round" opacity="0.9"/>
+  <g transform="translate(25,25) scale(2.0833333)">
+    <g class="icon-nginx" fill="#009639">
+      <path d="M12 0L1.605 6v12L12 24l10.395-6V6L12 0zm6 16.59c0 .705-.646 1.29-1.529 1.29-.631 0-1.351-.255-1.801-.81l-6-7.141v6.66c0 .721-.57 1.29-1.274 1.29H7.32c-.721 0-1.29-.6-1.29-1.29V7.41c0-.705.63-1.29 1.5-1.29.646 0 1.38.255 1.83.81l5.97 7.141V7.41c0-.721.6-1.29 1.29-1.29h.075c.72 0 1.29.6 1.29 1.29v9.18H18z"/>
+    </g>
   </g>
 </svg>

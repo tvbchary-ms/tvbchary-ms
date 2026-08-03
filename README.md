@@ -1,6 +1,8 @@
+<a href="#noop"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,50:414868,100:1A1B26&height=200&section=header&text=Hi%2C%20I%27m%20Bhaskar%20%E4%B8%81%E9%99%BD&fontSize=38&fontColor=7AA2F7&fontAlignY=36&desc=DevOps%20Engineer%20%C2%B7%20Taiwan%20%F0%9F%87%B9%F0%9F%87%BC&descSize=16&descColor=9ECE6A&descAlignY=58&animation=twinkling" width="100%" /></a>
+
 <div align="center">
 
-<a href="https://tvbchary.vercel.app/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=34&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Bhaskar+%E4%B8%81%E9%99%BD" alt="👋 Hi there! I'm Bhaskar" title="👋 Hi there! I'm Bhaskar" /></a>
+<a href="https://tvbchary.vercel.app/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=9ECE6A&center=true&vCenter=true&width=640&lines=Kubernetes+%C2%B7+Terraform+%C2%B7+Ansible+%C2%B7+Docker;Compliance-driven%2C+reliable+infrastructure;M.S.+CS+%40+Tamkang+University%2C+Taiwan" alt="tagline" /></a>
 
 <a href="https://www.linkedin.com/in/t-v-bhaskara-chary/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
