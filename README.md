@@ -1,6 +1,6 @@
-<a href="#noop"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,100:414868&height=220&section=header&text=Hi%2C%20I%27m%20Bhaskar%20%E4%B8%81%E9%99%BD&fontSize=38&fontColor=7AA2F7&fontAlignY=38&desc=DevOps%20Engineer%20%C2%B7%20Taiwan%20%F0%9F%87%B9%F0%9F%87%BC&descSize=16&descColor=9ECE6A&descAlignY=58&animation=fadeIn" width="100%" /></a>
-
 <div align="center">
+
+<a href="https://tvbchary.vercel.app/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=34&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Bhaskar+%E4%B8%81%E9%99%BD" alt="👋 Hi there! I'm Bhaskar" title="👋 Hi there! I'm Bhaskar" /></a>
 
 <a href="https://www.linkedin.com/in/t-v-bhaskara-chary/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -27,83 +27,79 @@ Hey, I'm Bhaskar 👋 — a DevOps engineer based in Taiwan, currently building 
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/docker.svg" alt="Docker" width="65" height="65" />
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/kubernetes.svg" alt="Kubernetes" width="65" height="65" />
       <br>Kubernetes
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/amazonwebservices.svg" alt="AWS" width="65" height="65" />
       <br>AWS
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API" width="65" height="65" />
-      <br>Rest API
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+      <img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/terraform.svg" alt="Terraform" width="65" height="65" />
       <br>Terraform
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" />
+      <img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/ansible.svg" alt="Ansible" width="65" height="65" />
       <br>Ansible
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-      <br>Actions
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
-      <br>Prometheus
+      <img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/nginx.svg" alt="Nginx" width="65" height="65" />
+      <br>Nginx
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      <br>FastAPI
+      <img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/linux.svg" alt="Linux" width="65" height="65" />
+      <br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/git.svg" alt="Git" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/githubactions.svg" alt="GitHub Actions" width="65" height="65" />
+      <br>Actions
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/prometheus.svg" alt="Prometheus" width="65" height="65" />
+      <br>Prometheus
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/python.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/fastapi.svg" alt="FastAPI" width="65" height="65" />
+      <br>FastAPI
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/express.svg" alt="Express" width="65" height="65" />
       <br>Express
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/postgresql.svg" alt="PostgreSQL" width="65" height="65" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/react.svg" alt="React" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/typescript.svg" alt="TypeScript" width="65" height="65" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/vite.svg" alt="Vite" width="65" height="65" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/tailwindcss.svg" alt="Tailwind CSS" width="65" height="65" />
       <br>Tailwind
     </td>
   </tr>

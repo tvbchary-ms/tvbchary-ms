@@ -1,0 +1,10 @@
+<svg width="72" height="72" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tailwind CSS">
+  <title>Tailwind CSS</title>
+  <circle cx="50" cy="50" r="46" fill="#1A1B26"/>
+  <circle cx="50" cy="50" r="46" fill="none" stroke="#38BDF8" stroke-width="3" stroke-dasharray="30 250" stroke-linecap="round" opacity="0.9">
+    <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <g transform="translate(25,25) scale(2.0833333)" fill="#38BDF8">
+    <path d="M12.001,4.8c-3.2,0-5.2,1.6-6,4.8c1.2-1.6,2.6-2.2,4.2-1.8c0.913,0.228,1.565,0.89,2.288,1.624 C13.666,10.618,15.027,12,18.001,12c3.2,0,5.2-1.6,6-4.8c-1.2,1.6-2.6,2.2-4.2,1.8c-0.913-0.228-1.565-0.89-2.288-1.624 C16.337,6.182,14.976,4.8,12.001,4.8z M6.001,12c-3.2,0-5.2,1.6-6,4.8c1.2-1.6,2.6-2.2,4.2-1.8c0.913,0.228,1.565,0.89,2.288,1.624 c1.177,1.194,2.538,2.576,5.512,2.576c3.2,0,5.2-1.6,6-4.8c-1.2,1.6-2.6,2.2-4.2,1.8c-0.913-0.228-1.565-0.89-2.288-1.624 C10.337,13.382,8.976,12,6.001,12z"/>
+  </g>
+</svg>
