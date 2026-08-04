@@ -54,6 +54,16 @@ Hey, I'm Bhaskar 👋 — a DevOps engineer based in Taiwan, currently building 
   <td align="center" width="80"><img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/vite.svg" alt="Vite" width="60" height="60" /><br/><sub>Vite</sub></td>
   <td align="center" width="80"><img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/tailwindcss.svg" alt="Tailwind CSS" width="60" height="60" /><br/><sub>Tailwind</sub></td>
 </tr>
+<tr><td colspan="6" height="18"></td></tr>
+<tr><td colspan="6" align="center"><sub><strong>AI &amp; AGENTS</strong></sub></td></tr>
+<tr>
+  <td align="center" width="80"><img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/modelcontextprotocol.svg" alt="Model Context Protocol" width="60" height="60" /><br/><sub>MCP</sub></td>
+  <td align="center" width="80"><img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/claudecode.svg" alt="Claude Code" width="60" height="60" /><br/><sub>Claude Code</sub></td>
+  <td align="center" width="80"><img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/langchain.svg" alt="LangChain" width="60" height="60" /><br/><sub>LangChain</sub></td>
+  <td align="center" width="80"><img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/langgraph.svg" alt="LangGraph" width="60" height="60" /><br/><sub>LangGraph</sub></td>
+  <td align="center" width="80"><img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/ollama.svg" alt="Ollama" width="60" height="60" /><br/><sub>Ollama</sub></td>
+  <td align="center" width="80"><img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/icons/qdrant.svg" alt="Qdrant" width="60" height="60" /><br/><sub>Qdrant</sub></td>
+</tr>
 </table>
 
 </div>

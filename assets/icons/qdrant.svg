@@ -1,0 +1,30 @@
+<svg width="72" height="72" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Qdrant">
+  <title>Qdrant</title>
+  <defs>
+    <style>
+      .ring-qdrant {
+        transform-origin: 50px 50px;
+        animation: spin-qdrant 4s linear infinite;
+      }
+      @keyframes spin-qdrant {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      .icon-qdrant {
+        transform-origin: 12px 12px;
+        animation: pulse-qdrant 2.4s ease-in-out infinite;
+      }
+      @keyframes pulse-qdrant {
+        0%, 100% { transform: scale(1); }
+        50% { transform: scale(1.12); }
+      }
+    </style>
+  </defs>
+  <circle cx="50" cy="50" r="46" fill="#1A1B26"/>
+  <circle class="ring-qdrant" cx="50" cy="50" r="46" fill="none" stroke="#DC244C" stroke-width="3" stroke-dasharray="30 250" stroke-linecap="round" opacity="0.9"/>
+  <g transform="translate(25,25) scale(2.0833333)">
+    <g class="icon-qdrant" fill="#DC244C">
+      <path d="m12 16.5 3.897-2.25v-4.5L12 7.5 8.103 9.75v4.5zM1.607 18 12 24l3.897-2.25v-4.5L12 19.5l-6.495-3.75v-7.5L12 4.5l6.495 3.75v15L22.393 21V6L12 0 1.607 6Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg width="72" height="72" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LangGraph">
+  <title>LangGraph</title>
+  <defs>
+    <style>
+      .ring-langgraph {
+        transform-origin: 50px 50px;
+        animation: spin-langgraph 4s linear infinite;
+      }
+      @keyframes spin-langgraph {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      .icon-langgraph {
+        transform-origin: 12px 12px;
+        animation: pulse-langgraph 2.4s ease-in-out infinite;
+      }
+      @keyframes pulse-langgraph {
+        0%, 100% { transform: scale(1); }
+        50% { transform: scale(1.12); }
+      }
+    </style>
+  </defs>
+  <circle cx="50" cy="50" r="46" fill="#1A1B26"/>
+  <circle class="ring-langgraph" cx="50" cy="50" r="46" fill="none" stroke="#BB9AF7" stroke-width="3" stroke-dasharray="30 250" stroke-linecap="round" opacity="0.9"/>
+  <g transform="translate(25,25) scale(2.0833333)">
+    <g class="icon-langgraph" fill="#BB9AF7">
+      <path d="M5 19H10A5 5 0 115 14ZM19 14A5 5 0 1114 19H19ZM10 5A5 5 0 105 10V5ZM19 5V10A5 5 0 1014 5Z"/>
+    </g>
+  </g>
+</svg>
