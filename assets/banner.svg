@@ -329,8 +329,8 @@
 
     
   <g transform="translate(308.0,205)" opacity="0">
-    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.150;1" dur="6s" begin="0s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="0.4;0.4;1;1.08;1" keyTimes="0;0.150;0.208;0.233;1" dur="6s" begin="0s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1"/>
+    <animate attributeName="opacity" values="0;1" dur="0.22s" begin="0.55s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" additive="sum" values="0.4;1.08;1" keyTimes="0;0.7;1" dur="0.34s" begin="0.55s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1;0.3 0 0.2 1"/>
     <g transform="scale(0.6400)">
       <title>Docker</title>
   <defs>
@@ -363,8 +363,8 @@
     </g>
   </g>
   <g transform="translate(412.0,205)" opacity="0">
-    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.170;1" dur="6s" begin="0s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="0.4;0.4;1;1.08;1" keyTimes="0;0.170;0.228;0.253;1" dur="6s" begin="0s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1"/>
+    <animate attributeName="opacity" values="0;1" dur="0.22s" begin="0.62s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" additive="sum" values="0.4;1.08;1" keyTimes="0;0.7;1" dur="0.34s" begin="0.62s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1;0.3 0 0.2 1"/>
     <g transform="scale(0.6400)">
       <title>Kubernetes</title>
   <defs>
@@ -397,8 +397,8 @@
     </g>
   </g>
   <g transform="translate(516.0,205)" opacity="0">
-    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.190;1" dur="6s" begin="0s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="0.4;0.4;1;1.08;1" keyTimes="0;0.190;0.248;0.273;1" dur="6s" begin="0s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1"/>
+    <animate attributeName="opacity" values="0;1" dur="0.22s" begin="0.69s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" additive="sum" values="0.4;1.08;1" keyTimes="0;0.7;1" dur="0.34s" begin="0.69s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1;0.3 0 0.2 1"/>
     <g transform="scale(0.6400)">
       <title>Terraform</title>
   <defs>
@@ -431,8 +431,8 @@
     </g>
   </g>
   <g transform="translate(620.0,205)" opacity="0">
-    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.210;1" dur="6s" begin="0s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="0.4;0.4;1;1.08;1" keyTimes="0;0.210;0.268;0.293;1" dur="6s" begin="0s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1"/>
+    <animate attributeName="opacity" values="0;1" dur="0.22s" begin="0.76s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" additive="sum" values="0.4;1.08;1" keyTimes="0;0.7;1" dur="0.34s" begin="0.76s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1;0.3 0 0.2 1"/>
     <g transform="scale(0.6400)">
       <title>AWS</title>
   <defs>
@@ -465,8 +465,8 @@
     </g>
   </g>
   <g transform="translate(724.0,205)" opacity="0">
-    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.230;1" dur="6s" begin="0s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="0.4;0.4;1;1.08;1" keyTimes="0;0.230;0.288;0.313;1" dur="6s" begin="0s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1"/>
+    <animate attributeName="opacity" values="0;1" dur="0.22s" begin="0.83s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" additive="sum" values="0.4;1.08;1" keyTimes="0;0.7;1" dur="0.34s" begin="0.83s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1;0.3 0 0.2 1"/>
     <g transform="scale(0.6400)">
       <title>Linux</title>
   <defs>
@@ -499,8 +499,8 @@
     </g>
   </g>
   <g transform="translate(828.0,205)" opacity="0">
-    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.250;1" dur="6s" begin="0s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="0.4;0.4;1;1.08;1" keyTimes="0;0.250;0.308;0.333;1" dur="6s" begin="0s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1"/>
+    <animate attributeName="opacity" values="0;1" dur="0.22s" begin="0.90s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" additive="sum" values="0.4;1.08;1" keyTimes="0;0.7;1" dur="0.34s" begin="0.90s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1;0.3 0 0.2 1"/>
     <g transform="scale(0.6400)">
       <title>GitHub Actions</title>
   <defs>
@@ -533,22 +533,22 @@
     </g>
   </g>
     <text x="340.0" y="291" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" letter-spacing="0.5" fill="#565F89" opacity="0">
-    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.150;1" dur="6s" begin="0s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.22s" begin="0.55s" fill="freeze"/>
     Docker
   </text><text x="444.0" y="291" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" letter-spacing="0.5" fill="#565F89" opacity="0">
-    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.170;1" dur="6s" begin="0s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.22s" begin="0.62s" fill="freeze"/>
     Kubernetes
   </text><text x="548.0" y="291" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" letter-spacing="0.5" fill="#565F89" opacity="0">
-    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.190;1" dur="6s" begin="0s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.22s" begin="0.69s" fill="freeze"/>
     Terraform
   </text><text x="652.0" y="291" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" letter-spacing="0.5" fill="#565F89" opacity="0">
-    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.210;1" dur="6s" begin="0s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.22s" begin="0.76s" fill="freeze"/>
     AWS
   </text><text x="756.0" y="291" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" letter-spacing="0.5" fill="#565F89" opacity="0">
-    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.230;1" dur="6s" begin="0s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.22s" begin="0.83s" fill="freeze"/>
     Linux
   </text><text x="860.0" y="291" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" letter-spacing="0.5" fill="#565F89" opacity="0">
-    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.250;1" dur="6s" begin="0s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.22s" begin="0.90s" fill="freeze"/>
     Actions
   </text>
   </g>
