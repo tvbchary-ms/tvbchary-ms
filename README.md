@@ -1,4 +1,4 @@
-<a href="#noop"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:16161E,100:1A1B26&height=200&section=header&text=Hi%2C%20I%27m%20Bhaskar%20%E4%B8%81%E9%99%BD&fontSize=38&fontColor=7AA2F7&fontAlignY=36&desc=DevOps%20Engineer%20%C2%B7%20Taiwan%20%F0%9F%87%B9%F0%9F%87%BC&descSize=16&descColor=9ECE6A&descAlignY=58&animation=twinkling" width="100%" /></a>
+<a href="#noop"><img src="https://raw.githubusercontent.com/tvbchary-ms/tvbchary-ms/main/assets/banner.svg" width="100%" alt="Bhaskar 丁陽 — DevOps Engineer" /></a>
 
 <div align="center">
 
